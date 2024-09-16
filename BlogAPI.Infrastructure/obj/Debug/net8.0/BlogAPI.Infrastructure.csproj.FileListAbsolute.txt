@@ -1,0 +1,11 @@
+C:\Users\pim\Desktop\BlogAPI\BlogAPI.Infrastructure\bin\Debug\net8.0\BlogAPI.Infrastructure.deps.json
+C:\Users\pim\Desktop\BlogAPI\BlogAPI.Infrastructure\bin\Debug\net8.0\BlogAPI.Infrastructure.dll
+C:\Users\pim\Desktop\BlogAPI\BlogAPI.Infrastructure\bin\Debug\net8.0\BlogAPI.Infrastructure.pdb
+C:\Users\pim\Desktop\BlogAPI\BlogAPI.Infrastructure\obj\Debug\net8.0\BlogAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pim\Desktop\BlogAPI\BlogAPI.Infrastructure\obj\Debug\net8.0\BlogAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\pim\Desktop\BlogAPI\BlogAPI.Infrastructure\obj\Debug\net8.0\BlogAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\pim\Desktop\BlogAPI\BlogAPI.Infrastructure\obj\Debug\net8.0\BlogAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\pim\Desktop\BlogAPI\BlogAPI.Infrastructure\obj\Debug\net8.0\BlogAPI.Infrastructure.dll
+C:\Users\pim\Desktop\BlogAPI\BlogAPI.Infrastructure\obj\Debug\net8.0\refint\BlogAPI.Infrastructure.dll
+C:\Users\pim\Desktop\BlogAPI\BlogAPI.Infrastructure\obj\Debug\net8.0\BlogAPI.Infrastructure.pdb
+C:\Users\pim\Desktop\BlogAPI\BlogAPI.Infrastructure\obj\Debug\net8.0\ref\BlogAPI.Infrastructure.dll

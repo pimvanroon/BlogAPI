@@ -1,0 +1,11 @@
+C:\Users\pim\Desktop\BlogAPI\BlogAPI.Domain\bin\Debug\net8.0\BlogAPI.Domain.deps.json
+C:\Users\pim\Desktop\BlogAPI\BlogAPI.Domain\bin\Debug\net8.0\BlogAPI.Domain.dll
+C:\Users\pim\Desktop\BlogAPI\BlogAPI.Domain\bin\Debug\net8.0\BlogAPI.Domain.pdb
+C:\Users\pim\Desktop\BlogAPI\BlogAPI.Domain\obj\Debug\net8.0\BlogAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pim\Desktop\BlogAPI\BlogAPI.Domain\obj\Debug\net8.0\BlogAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\pim\Desktop\BlogAPI\BlogAPI.Domain\obj\Debug\net8.0\BlogAPI.Domain.AssemblyInfo.cs
+C:\Users\pim\Desktop\BlogAPI\BlogAPI.Domain\obj\Debug\net8.0\BlogAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pim\Desktop\BlogAPI\BlogAPI.Domain\obj\Debug\net8.0\BlogAPI.Domain.dll
+C:\Users\pim\Desktop\BlogAPI\BlogAPI.Domain\obj\Debug\net8.0\refint\BlogAPI.Domain.dll
+C:\Users\pim\Desktop\BlogAPI\BlogAPI.Domain\obj\Debug\net8.0\BlogAPI.Domain.pdb
+C:\Users\pim\Desktop\BlogAPI\BlogAPI.Domain\obj\Debug\net8.0\ref\BlogAPI.Domain.dll

@@ -1,0 +1,17 @@
+C:\Users\pim\Desktop\BlogAPI\BlogAPI.Application\obj\Debug\net8.0\BlogAPI.Application.csproj.AssemblyReference.cache
+C:\Users\pim\Desktop\BlogAPI\BlogAPI.Application\obj\Debug\net8.0\BlogAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pim\Desktop\BlogAPI\BlogAPI.Application\obj\Debug\net8.0\BlogAPI.Application.AssemblyInfoInputs.cache
+C:\Users\pim\Desktop\BlogAPI\BlogAPI.Application\obj\Debug\net8.0\BlogAPI.Application.AssemblyInfo.cs
+C:\Users\pim\Desktop\BlogAPI\BlogAPI.Application\obj\Debug\net8.0\BlogAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\pim\Desktop\BlogAPI\BlogAPI.Application\bin\Debug\net8.0\BlogAPI.Application.deps.json
+C:\Users\pim\Desktop\BlogAPI\BlogAPI.Application\bin\Debug\net8.0\BlogAPI.Application.dll
+C:\Users\pim\Desktop\BlogAPI\BlogAPI.Application\bin\Debug\net8.0\BlogAPI.Application.pdb
+C:\Users\pim\Desktop\BlogAPI\BlogAPI.Application\bin\Debug\net8.0\BlogAPI.Domain.dll
+C:\Users\pim\Desktop\BlogAPI\BlogAPI.Application\bin\Debug\net8.0\BlogAPI.Infrastructure.dll
+C:\Users\pim\Desktop\BlogAPI\BlogAPI.Application\bin\Debug\net8.0\BlogAPI.Domain.pdb
+C:\Users\pim\Desktop\BlogAPI\BlogAPI.Application\bin\Debug\net8.0\BlogAPI.Infrastructure.pdb
+C:\Users\pim\Desktop\BlogAPI\BlogAPI.Application\obj\Debug\net8.0\BlogAPI.Application.csproj.CopyComplete
+C:\Users\pim\Desktop\BlogAPI\BlogAPI.Application\obj\Debug\net8.0\BlogAPI.Application.dll
+C:\Users\pim\Desktop\BlogAPI\BlogAPI.Application\obj\Debug\net8.0\refint\BlogAPI.Application.dll
+C:\Users\pim\Desktop\BlogAPI\BlogAPI.Application\obj\Debug\net8.0\BlogAPI.Application.pdb
+C:\Users\pim\Desktop\BlogAPI\BlogAPI.Application\obj\Debug\net8.0\ref\BlogAPI.Application.dll
